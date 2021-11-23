@@ -1,3 +1,4 @@
 parser_jose.py
 parser2_old.py
 *.pdf
+*.json
